@@ -4,8 +4,8 @@ Auto-collected **VLESS** configs, deduplicated, cleaned, and **tested through xr
 so only nodes that actually pass traffic are published. Updates every hour via
 GitHub Actions.
 
-**Last update:** 2026-09-15 14:08 UTC
-**Working nodes:** 337  |  **Fastest:** 122 ms
+**Last update:** 2026-09-15 18:04 UTC
+**Working nodes:** 368  |  **Fastest:** 33 ms
 
 ## Subscription
 
