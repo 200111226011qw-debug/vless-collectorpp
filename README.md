@@ -4,18 +4,18 @@ Auto-collected **VLESS** configs, deduplicated, cleaned, and **tested through xr
 so only nodes that actually pass traffic are published. Updates every hour via
 GitHub Actions.
 
-**Last update:** 2026-09-19 23:56 UTC
-**Working nodes:** 443  |  **Fastest:** 116 ms
+**Last update:** 2026-09-20 01:42 UTC
+**Working nodes:** 575  |  **Fastest:** 58 ms
 
 ## Subscription
 
 Import this URL into v2rayNG / v2rayN / nekoray / sing-box (base64 subscription):
 
 ```
-https://raw.githubusercontent.com/mehrtat/vless-collector/main/sub.txt
+https://raw.githubusercontent.com/200111226011qw-debug/vless-collectorpp/main/sub.txt
 ```
 
-Or the plain list (one config per line): `https://raw.githubusercontent.com/mehrtat/vless-collector/main/vless.txt`
+Or the plain list (one config per line): `https://raw.githubusercontent.com/200111226011qw-debug/vless-collectorpp/main/vless.txt`
 
 ## How it works
 
